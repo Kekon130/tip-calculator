@@ -1,0 +1,8 @@
+.tip-value {
+	margin-top: 16px;
+}
+
+.per-person {
+	color: var(--ion-color-primary);
+	font-weight: 700;
+}
